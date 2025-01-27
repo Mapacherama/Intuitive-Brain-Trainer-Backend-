@@ -1,2 +1,2 @@
-# Intuitive-Brain-Trainer-Backend-
+# Intuitive-Brain-Trainer-Backend
 The backend for my other application
